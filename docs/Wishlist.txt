@@ -1,5 +1,6 @@
 Requests (Wishlist):
 ====================
+. Floppy drive operation sounds
 
 . DONE
   Hard Disk light/indicator
